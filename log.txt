@@ -1,0 +1,176 @@
+ 31/03/2023 10:05:13 AM - INFO - Inicio do Programa
+ 31/03/2023 10:05:13 AM - INFO - Encerrando processos do Dealer...
+ 31/03/2023 10:05:14 AM - INFO - Processos encerrados.
+ 31/03/2023 10:05:14 AM - INFO - Efetuando login no Dealer Contas a Receber...
+ 31/03/2023 10:05:29 AM - INFO - Preparando extração de Relatórios...
+ 31/03/2023 10:05:46 AM - INFO - Selecionando Empresas NOVALUZ BS...
+ 31/03/2023 10:06:08 AM - INFO - Extraindo relatorio...
+ 31/03/2023 10:06:10 AM - INFO - Gerando Previsualizacao para relatorio da NOVALUZ BS
+ 31/03/2023 10:06:11 AM - INFO - Existe relatorio para NOVALUZ BS
+ 31/03/2023 10:06:11 AM - INFO - Gerar arquivo xls
+ 31/03/2023 10:06:27 AM - INFO - Arquivo NOVALUZ BS foi gerado.
+ 31/03/2023 10:06:27 AM - INFO - Existe relatorio para a empresa - NOVALUZ BS
+ 31/03/2023 10:06:27 AM - INFO - Existe PIX para a empresa - NOVALUZ BS
+ 31/03/2023 10:06:31 AM - INFO - Email Enviado e arquivo NOVALUZ BS excluído do diretório.
+ 31/03/2023 10:06:32 AM - INFO - Selecionando Empresas NOVALUZ SD...
+ 31/03/2023 10:06:58 AM - INFO - Extraindo relatorio...
+ 31/03/2023 10:06:59 AM - INFO - Gerando Previsualizacao para relatorio da NOVALUZ SD
+ 31/03/2023 10:07:01 AM - INFO - Existe relatorio para NOVALUZ SD
+ 31/03/2023 10:07:01 AM - INFO - Gerar arquivo xls
+ 31/03/2023 10:07:16 AM - INFO - Arquivo NOVALUZ SD foi gerado.
+ 31/03/2023 10:07:16 AM - INFO - Existe relatorio para a empresa - NOVALUZ SD
+ 31/03/2023 10:07:16 AM - INFO - Existe PIX para a empresa - NOVALUZ SD
+ 31/03/2023 10:07:20 AM - INFO - Email Enviado e arquivo NOVALUZ SD excluído do diretório.
+ 31/03/2023 10:07:21 AM - INFO - Selecionando Empresas NOVALUZ WS...
+ 31/03/2023 10:07:33 AM - INFO - Extraindo relatorio...
+ 31/03/2023 10:07:35 AM - INFO - Gerando Previsualizacao para relatorio da NOVALUZ WS
+ 31/03/2023 10:07:36 AM - INFO - Existe relatorio para NOVALUZ WS
+ 31/03/2023 10:07:36 AM - INFO - Gerar arquivo xls
+ 31/03/2023 10:07:52 AM - INFO - Arquivo NOVALUZ WS foi gerado.
+ 31/03/2023 10:07:52 AM - INFO - Existe relatorio para a empresa - NOVALUZ WS
+ 31/03/2023 10:07:52 AM - INFO - Nao existe PIX para a empresa - NOVALUZ WS
+ 31/03/2023 10:07:53 AM - INFO - Selecionando Empresas NOVALUZ SUL...
+ 31/03/2023 10:08:17 AM - INFO - Extraindo relatorio...
+ 31/03/2023 10:08:18 AM - INFO - Gerando Previsualizacao para relatorio da NOVALUZ SUL
+ 31/03/2023 10:08:19 AM - INFO - Existe relatorio para NOVALUZ SUL
+ 31/03/2023 10:08:19 AM - INFO - Gerar arquivo xls
+ 31/03/2023 10:08:35 AM - INFO - Arquivo NOVALUZ SUL foi gerado.
+ 31/03/2023 10:08:35 AM - INFO - Existe relatorio para a empresa - NOVALUZ SUL
+ 31/03/2023 10:08:35 AM - INFO - Existe PIX para a empresa - NOVALUZ SUL
+ 31/03/2023 10:08:39 AM - INFO - Email Enviado e arquivo NOVALUZ SUL excluído do diretório.
+ 31/03/2023 10:08:40 AM - INFO - Selecionando Empresas CONTERRANEA MATRIZ...
+ 31/03/2023 10:08:55 AM - INFO - Extraindo relatorio...
+ 31/03/2023 10:08:57 AM - INFO - Gerando Previsualizacao para relatorio da CONTERRANEA MATRIZ
+ 31/03/2023 10:08:58 AM - INFO - Existe relatorio para CONTERRANEA MATRIZ
+ 31/03/2023 10:08:58 AM - INFO - Gerar arquivo xls
+ 31/03/2023 10:09:14 AM - INFO - Arquivo CONTERRANEA MATRIZ foi gerado.
+ 31/03/2023 10:09:14 AM - INFO - Existe relatorio para a empresa - CONTERRANEA MATRIZ
+ 31/03/2023 10:09:14 AM - INFO - Existe PIX para a empresa - CONTERRANEA MATRIZ
+ 31/03/2023 10:09:17 AM - INFO - Email Enviado e arquivo CONTERRANEA MATRIZ excluído do diretório.
+ 31/03/2023 10:09:18 AM - INFO - Selecionando Empresas CONTERRANEA MOSSORO...
+ 31/03/2023 10:09:32 AM - INFO - Extraindo relatorio...
+ 31/03/2023 10:09:34 AM - INFO - Gerando Previsualizacao para relatorio da CONTERRANEA MOSSORO
+ 31/03/2023 10:09:35 AM - INFO - Existe relatorio para CONTERRANEA MOSSORO
+ 31/03/2023 10:09:35 AM - INFO - Gerar arquivo xls
+ 31/03/2023 10:09:51 AM - INFO - Arquivo CONTERRANEA MOSSORO foi gerado.
+ 31/03/2023 10:09:51 AM - INFO - Existe relatorio para a empresa - CONTERRANEA MOSSORO
+ 31/03/2023 10:09:51 AM - INFO - Existe PIX para a empresa - CONTERRANEA MOSSORO
+ 31/03/2023 10:09:54 AM - INFO - Email Enviado e arquivo CONTERRANEA MOSSORO excluído do diretório.
+ 31/03/2023 10:09:55 AM - INFO - Selecionando Empresas CONTERRANEA MACAIBA...
+ 31/03/2023 10:10:11 AM - INFO - Extraindo relatorio...
+ 31/03/2023 10:10:13 AM - INFO - Gerando Previsualizacao para relatorio da CONTERRANEA MACAIBA
+ 31/03/2023 10:10:14 AM - INFO - Existe relatorio para CONTERRANEA MACAIBA
+ 31/03/2023 10:10:14 AM - INFO - Gerar arquivo xls
+ 31/03/2023 10:10:30 AM - INFO - Arquivo CONTERRANEA MACAIBA foi gerado.
+ 31/03/2023 10:10:30 AM - INFO - Existe relatorio para a empresa - CONTERRANEA MACAIBA
+ 31/03/2023 10:10:30 AM - INFO - Existe PIX para a empresa - CONTERRANEA MACAIBA
+ 31/03/2023 10:10:33 AM - INFO - Email Enviado e arquivo CONTERRANEA MACAIBA excluído do diretório.
+ 31/03/2023 10:10:34 AM - INFO - Selecionando Empresas NOSSAMOTO MATRIZ...
+ 31/03/2023 10:10:59 AM - INFO - Extraindo relatorio...
+ 31/03/2023 10:11:00 AM - INFO - Gerando Previsualizacao para relatorio da NOSSAMOTO MATRIZ
+ 31/03/2023 10:11:02 AM - INFO - Existe relatorio para NOSSAMOTO MATRIZ
+ 31/03/2023 10:11:02 AM - INFO - Gerar arquivo xls
+ 31/03/2023 10:11:17 AM - INFO - Arquivo NOSSAMOTO MATRIZ foi gerado.
+ 31/03/2023 10:11:17 AM - INFO - Existe relatorio para a empresa - NOSSAMOTO MATRIZ
+ 31/03/2023 10:11:17 AM - INFO - Existe PIX para a empresa - NOSSAMOTO MATRIZ
+ 31/03/2023 10:11:21 AM - INFO - Email Enviado e arquivo NOSSAMOTO MATRIZ excluído do diretório.
+ 31/03/2023 10:11:22 AM - INFO - Selecionando Empresas NOSSAMOTO CAUCAIA...
+ 31/03/2023 10:11:45 AM - INFO - Extraindo relatorio...
+ 31/03/2023 10:11:46 AM - INFO - Gerando Previsualizacao para relatorio da NOSSAMOTO CAUCAIA
+ 31/03/2023 10:11:48 AM - INFO - Existe relatorio para NOSSAMOTO CAUCAIA
+ 31/03/2023 10:11:48 AM - INFO - Gerar arquivo xls
+ 31/03/2023 10:12:03 AM - INFO - Arquivo NOSSAMOTO CAUCAIA foi gerado.
+ 31/03/2023 10:12:03 AM - INFO - Existe relatorio para a empresa - NOSSAMOTO CAUCAIA
+ 31/03/2023 10:12:03 AM - INFO - Existe PIX para a empresa - NOSSAMOTO CAUCAIA
+ 31/03/2023 10:12:07 AM - INFO - Email Enviado e arquivo NOSSAMOTO CAUCAIA excluído do diretório.
+ 31/03/2023 10:12:08 AM - INFO - Selecionando Empresas NOSSAMOTO BATURITE...
+ 31/03/2023 10:12:29 AM - INFO - Extraindo relatorio...
+ 31/03/2023 10:12:30 AM - INFO - Gerando Previsualizacao para relatorio da NOSSAMOTO BATURITE
+ 31/03/2023 10:12:32 AM - INFO - Existe relatorio para NOSSAMOTO BATURITE
+ 31/03/2023 10:12:32 AM - INFO - Gerar arquivo xls
+ 31/03/2023 10:12:47 AM - INFO - Arquivo NOSSAMOTO BATURITE foi gerado.
+ 31/03/2023 10:12:47 AM - INFO - Existe relatorio para a empresa - NOSSAMOTO BATURITE
+ 31/03/2023 10:12:48 AM - INFO - Existe PIX para a empresa - NOSSAMOTO BATURITE
+ 31/03/2023 10:12:51 AM - INFO - Email Enviado e arquivo NOSSAMOTO BATURITE excluído do diretório.
+ 31/03/2023 10:12:52 AM - INFO - Selecionando Empresas NOSSAMOTO SIQUEIRA...
+ 31/03/2023 10:13:15 AM - INFO - Extraindo relatorio...
+ 31/03/2023 10:13:17 AM - INFO - Gerando Previsualizacao para relatorio da NOSSAMOTO SIQUEIRA
+ 31/03/2023 10:13:18 AM - INFO - Existe relatorio para NOSSAMOTO SIQUEIRA
+ 31/03/2023 10:13:18 AM - INFO - Gerar arquivo xls
+ 31/03/2023 10:13:34 AM - INFO - Arquivo NOSSAMOTO SIQUEIRA foi gerado.
+ 31/03/2023 10:13:34 AM - INFO - Existe relatorio para a empresa - NOSSAMOTO SIQUEIRA
+ 31/03/2023 10:13:34 AM - INFO - Existe PIX para a empresa - NOSSAMOTO SIQUEIRA
+ 31/03/2023 10:13:38 AM - INFO - Email Enviado e arquivo NOSSAMOTO SIQUEIRA excluído do diretório.
+ 31/03/2023 10:13:39 AM - INFO - Selecionando Empresas JANGADA VEICULOS...
+ 31/03/2023 10:14:01 AM - INFO - Extraindo relatorio...
+ 31/03/2023 10:14:03 AM - INFO - Gerando Previsualizacao para relatorio da JANGADA VEICULOS
+ 31/03/2023 10:14:04 AM - INFO - Existe relatorio para JANGADA VEICULOS
+ 31/03/2023 10:14:04 AM - INFO - Gerar arquivo xls
+ 31/03/2023 10:14:20 AM - INFO - Arquivo JANGADA VEICULOS foi gerado.
+ 31/03/2023 10:14:20 AM - INFO - Existe relatorio para a empresa - JANGADA VEICULOS
+ 31/03/2023 10:14:20 AM - INFO - Existe PIX para a empresa - JANGADA VEICULOS
+ 31/03/2023 10:14:23 AM - INFO - Email Enviado e arquivo JANGADA VEICULOS excluído do diretório.
+ 31/03/2023 10:14:24 AM - INFO - Selecionando Empresas NISSAN MATRIZ...
+ 31/03/2023 10:14:43 AM - INFO - Extraindo relatorio...
+ 31/03/2023 10:14:45 AM - INFO - Gerando Previsualizacao para relatorio da NISSAN MATRIZ
+ 31/03/2023 10:14:46 AM - INFO - Existe relatorio para NISSAN MATRIZ
+ 31/03/2023 10:14:46 AM - INFO - Gerar arquivo xls
+ 31/03/2023 10:15:02 AM - INFO - Arquivo NISSAN MATRIZ foi gerado.
+ 31/03/2023 10:15:02 AM - INFO - Existe relatorio para a empresa - NISSAN MATRIZ
+ 31/03/2023 10:15:02 AM - INFO - Existe PIX para a empresa - NISSAN MATRIZ
+ 31/03/2023 10:15:05 AM - INFO - Email Enviado e arquivo NISSAN MATRIZ excluído do diretório.
+ 31/03/2023 10:15:06 AM - INFO - Selecionando Empresas NISSAN FILIAL...
+ 31/03/2023 10:15:25 AM - INFO - Extraindo relatorio...
+ 31/03/2023 10:15:27 AM - INFO - Gerando Previsualizacao para relatorio da NISSAN FILIAL
+ 31/03/2023 10:15:28 AM - INFO - Existe relatorio para NISSAN FILIAL
+ 31/03/2023 10:15:28 AM - INFO - Gerar arquivo xls
+ 31/03/2023 10:15:44 AM - INFO - Arquivo NISSAN FILIAL foi gerado.
+ 31/03/2023 10:15:44 AM - INFO - Existe relatorio para a empresa - NISSAN FILIAL
+ 31/03/2023 10:15:44 AM - INFO - Existe PIX para a empresa - NISSAN FILIAL
+ 31/03/2023 10:15:49 AM - INFO - Email Enviado e arquivo NISSAN FILIAL excluído do diretório.
+ 31/03/2023 10:15:50 AM - INFO - Selecionando Empresas SANAUTO...
+ 31/03/2023 10:16:15 AM - INFO - Extraindo relatorio...
+ 31/03/2023 10:16:17 AM - INFO - Gerando Previsualizacao para relatorio da SANAUTO
+ 31/03/2023 10:16:18 AM - INFO - Existe relatorio para SANAUTO
+ 31/03/2023 10:16:18 AM - INFO - Gerar arquivo xls
+ 31/03/2023 10:16:34 AM - INFO - Arquivo SANAUTO foi gerado.
+ 31/03/2023 10:16:34 AM - INFO - Existe relatorio para a empresa - SANAUTO
+ 31/03/2023 10:16:34 AM - INFO - Existe PIX para a empresa - SANAUTO
+ 31/03/2023 10:16:38 AM - INFO - Email Enviado e arquivo SANAUTO excluído do diretório.
+ 31/03/2023 10:16:39 AM - INFO - Selecionando Empresas VOUGA...
+ 31/03/2023 10:17:08 AM - INFO - Extraindo relatorio...
+ 31/03/2023 10:17:10 AM - INFO - Gerando Previsualizacao para relatorio da VOUGA
+ 31/03/2023 10:17:11 AM - INFO - Existe relatorio para VOUGA
+ 31/03/2023 10:17:11 AM - INFO - Gerar arquivo xls
+ 31/03/2023 10:17:27 AM - INFO - Arquivo VOUGA foi gerado.
+ 31/03/2023 10:17:27 AM - INFO - Existe relatorio para a empresa - VOUGA
+ 31/03/2023 10:17:27 AM - INFO - Existe PIX para a empresa - VOUGA
+ 31/03/2023 10:17:31 AM - INFO - Email Enviado e arquivo VOUGA excluído do diretório.
+ 31/03/2023 10:17:32 AM - INFO - Selecionando Empresas CDA...
+ 31/03/2023 10:17:44 AM - INFO - Extraindo relatorio...
+ 31/03/2023 10:17:46 AM - INFO - Gerando Previsualizacao para relatorio da CDA
+ 31/03/2023 10:17:47 AM - INFO - Existe relatorio para CDA
+ 31/03/2023 10:17:47 AM - INFO - Gerar arquivo xls
+ 31/03/2023 10:18:02 AM - INFO - Arquivo CDA foi gerado.
+ 31/03/2023 10:18:02 AM - INFO - Existe relatorio para a empresa - CDA
+ 31/03/2023 10:18:02 AM - INFO - Existe PIX para a empresa - CDA
+ 31/03/2023 10:18:06 AM - INFO - Email Enviado e arquivo CDA excluído do diretório.
+ 31/03/2023 10:18:07 AM - INFO - Selecionando Empresas JANGADA AUTOMOTIVE...
+ 31/03/2023 10:18:24 AM - INFO - Extraindo relatorio...
+ 31/03/2023 10:18:26 AM - INFO - Gerando Previsualizacao para relatorio da JANGADA AUTOMOTIVE
+ 31/03/2023 10:18:27 AM - INFO - Existe relatorio para JANGADA AUTOMOTIVE
+ 31/03/2023 10:18:27 AM - INFO - Gerar arquivo xls
+ 31/03/2023 10:18:43 AM - INFO - Arquivo JANGADA AUTOMOTIVE foi gerado.
+ 31/03/2023 10:18:43 AM - INFO - Existe relatorio para a empresa - JANGADA AUTOMOTIVE
+ 31/03/2023 10:18:43 AM - INFO - Existe PIX para a empresa - JANGADA AUTOMOTIVE
+ 31/03/2023 10:18:46 AM - INFO - Email Enviado e arquivo JANGADA AUTOMOTIVE excluído do diretório.
+ 31/03/2023 10:18:47 AM - INFO - Selecionando Empresas NATIVA...
+ 31/03/2023 10:19:08 AM - INFO - Extraindo relatorio...
+ 31/03/2023 10:19:10 AM - INFO - Gerando Previsualizacao para relatorio da NATIVA
+ 31/03/2023 10:19:11 AM - INFO - Existe relatorio para NATIVA
+ 31/03/2023 10:19:11 AM - INFO - Gerar arquivo xls
+ 31/03/2023 10:19:26 AM - INFO - Arquivo NATIVA foi gerado.
+ 31/03/2023 10:19:26 AM - INFO - Existe relatorio para a empresa - NATIVA
+ 31/03/2023 10:19:27 AM - INFO - Existe PIX para a empresa - NATIVA
+ 31/03/2023 10:19:30 AM - INFO - Email Enviado e arquivo NATIVA excluído do diretório.
+ 31/03/2023 10:19:35 AM - INFO - Concluído.
